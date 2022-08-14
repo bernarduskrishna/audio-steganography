@@ -1,0 +1,1 @@
+This is a dummy information that can be used as test data for your algorithm development.  The information consists of alphanumeric characters and commonly used punctuation marks such as comma, full-stop, hyphens, apostrophe, exclamation mark, question mark and colon eg. :?-!,
